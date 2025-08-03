@@ -1,4 +1,4 @@
-🧙‍♂️ ASCIIQuest: Terminal Rogue Game
+# 🧙‍♂️ ASCIIQuest: Terminal Rogue Game
 
 **ASCIIQuest** is a retro-style terminal-based rogue-like adventure game built entirely in Python using the `curses` module. Featuring dynamic maps, procedural item placement, enemy encounters, and real-time combat — this game delivers an old-school experience in a clean, modular codebase.
 
@@ -45,6 +45,7 @@ python main.py
 
 ## 📁 Project Structure
 
+```
 RogueGame/
 │
 ├── main.py              # Game entry point
@@ -58,7 +59,7 @@ RogueGame/
 ├── README.md
 └── assets/
     └── screenshot.png   # Sample gameplay screenshot
-
+```
 
 ---
 
@@ -84,4 +85,5 @@ MIT License — free to use and modify.
 
 Built with ❤️ by [Anshuman Mishra](https://github.com/M-ar-SHAL)
 
+```
 
